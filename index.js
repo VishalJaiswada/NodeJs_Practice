@@ -1,1 +1,3 @@
-console.log("Hello World");
+const vikas = require("./second");
+
+console.log("Hello World",vikas);

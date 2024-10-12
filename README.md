@@ -31,7 +31,7 @@
 ##### To start it , type --> nodemon index.js
 ##### to restart at any time , type --> rs
 
-
+##### To use only at development time --> npm install --save-dev nodemon
 
 
 ##### Happy Coding & Happy Learning 😊😊☺️
