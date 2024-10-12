@@ -25,6 +25,13 @@
 ##### It will automatically create  --> node_modules folder of express js in vs code
 ##### and created automatically --> package-lock.json files in vs code
 
+### Globally install the node_modules for any projects in vs code-->
+##### type keyword , it will automatically install --> npm i -g nodemon
+
+##### To start it , type --> nodemon index.js
+##### to restart at any time , type --> rs
+
+
 
 
 ##### Happy Coding & Happy Learning 😊😊☺️
