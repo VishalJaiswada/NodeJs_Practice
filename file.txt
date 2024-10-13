@@ -1,0 +1,2 @@
+This is a file content.
+fs_module file will use it to read. 
