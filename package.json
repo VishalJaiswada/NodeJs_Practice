@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vishal Jaiswada", 
+  "author": "Vishal Jaiswada",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.1"
