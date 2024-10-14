@@ -34,4 +34,12 @@
 ##### To use only at development time --> npm install --save-dev nodemon
 
 
+### For Deployment :-
+##### use website like -> cloud.digital.com/project/
+##### or -> aws ,azure etc.
+
+### for deployment steps:-
+##### follow codewithharry site -> codewithharry.com/blogpost/deploy-nodejs-app-on-ubuntu
+
+
 ##### Happy Coding & Happy Learning 😊😊☺️
